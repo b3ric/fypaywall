@@ -44,7 +44,7 @@ def get_page(driver):
     # allow pass url CLI
     # POST HTTP from form
     # move flask? 
-    default_url = "https://www1.folha.uol.com.br/mercado/2022/03/franca-diz-que-sancoes-farao-economia-russa-colapsar.shtml"
+    default_url = "https://www.telegraph.co.uk/news/worldnews/europe/italy/11016175/Capt-Francesco-Schettino-teaches-panic-management-course-at-Rome-university.html"
     driver.get(default_url)
     
     # baixar html + css, vem tudo
